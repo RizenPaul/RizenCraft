@@ -1,0 +1,11 @@
+{
+  "showHearts": true,
+  "dynamicBrightness": true,
+  "filteringMechanism": "blackList",
+  "blackList": [
+    "minecraft:armor_stand"
+  ],
+  "whiteList": [
+    "minecraft:player"
+  ]
+}
