@@ -233,7 +233,7 @@ The **RizenCraft** modpack aims to provide a new **Minecraft** experience where 
 ## Installation
 
 **Manual installation:** 
-1. Download the modpack from modrinth website
+1. Download the **RizenCraft** modpack from modrinth website
 2. Install Modrinth app and launch it
 3. Find the **+** (_create profile_) icon near the **gear** icon at the bottom left of the app
 4. Choose "**From File**" and import the downloaded modpack **.mrpack** file
