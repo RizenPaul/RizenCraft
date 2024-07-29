@@ -1,0 +1,185 @@
+[
+  {
+    "name": "default",
+    "entries": [
+      {
+        "state": "{Name:\"minecraft:gold_ore\"}",
+        "name": "Gold Ore",
+        "color": "#ffff00",
+        "order": 0,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:iron_ore\"}",
+        "name": "Iron Ore",
+        "color": "#ffebc8",
+        "order": 1,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:diamond_ore\"}",
+        "name": "Diamond Ore",
+        "color": "#6ca9a0",
+        "order": 2,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:redstone_ore\",Properties:{lit:\"false\"}}",
+        "name": "Redstone Ore",
+        "color": "#ff0000",
+        "order": 3,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:lapis_ore\"}",
+        "name": "Lapis Lazuli Ore",
+        "color": "#0000f1",
+        "order": 4,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:coal_ore\"}",
+        "name": "Coal Ore",
+        "color": "#000009",
+        "order": 5,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:emerald_ore\"}",
+        "name": "Emerald Ore",
+        "color": "#00ff00",
+        "order": 6,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:copper_ore\"}",
+        "name": "Copper Ore",
+        "color": "#949400",
+        "order": 7,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_gold_ore\"}",
+        "name": "Deepslate Gold Ore",
+        "color": "#ffd200",
+        "order": 8,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_iron_ore\"}",
+        "name": "Deepslate Iron Ore",
+        "color": "#ffcda2",
+        "order": 9,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_diamond_ore\"}",
+        "name": "Deepslate Diamond Ore",
+        "color": "#66dcda",
+        "order": 10,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_redstone_ore\",Properties:{lit:\"false\"}}",
+        "name": "Deepslate Redstone Ore",
+        "color": "#820004",
+        "order": 11,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_lapis_ore\"}",
+        "name": "Deepslate Lapis Lazuli Ore",
+        "color": "#00005a",
+        "order": 12,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_coal_ore\"}",
+        "name": "Deepslate Coal Ore",
+        "color": "#000000",
+        "order": 13,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_emerald_ore\"}",
+        "name": "Deepslate Emerald Ore",
+        "color": "#00a000",
+        "order": 14,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_copper_ore\"}",
+        "name": "Deepslate Copper Ore",
+        "color": "#747400",
+        "order": 15,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:nether_gold_ore\"}",
+        "name": "Nether Gold Ore",
+        "color": "#ffff00",
+        "order": 16,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:ancient_debris\"}",
+        "name": "Ancient Debris",
+        "color": "#00ffff",
+        "order": 17,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:spawner\"}",
+        "name": "Monster Spawner",
+        "color": "#ffffff",
+        "order": 19,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:trial_spawner\",Properties:{ominous:\"false\",trial_spawner_state:\"inactive\"}}",
+        "name": "Trial Spawner",
+        "color": "#ff00ff",
+        "order": 20,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"betternether:pig_statue_respawner\",Properties:{facing:\"north\",top:\"false\"}}",
+        "name": "Respawner Statue",
+        "color": "#ff00ff",
+        "order": 21,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:end_portal_frame\",Properties:{eye:\"false\",facing:\"north\"}}",
+        "name": "End Portal Frame",
+        "color": "#6e00ff",
+        "order": 22,
+        "isDefault": true,
+        "active": true
+      }
+    ],
+    "order": 0,
+    "active": true
+  }
+]
