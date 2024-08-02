@@ -187,7 +187,7 @@ The **RizenCraft** modpack aims to provide a new **Minecraft** experience where 
 </details>
 
 ## RizenCraft 2 - Toned Down Version (Optional)
-- Removed server-side only packs
+- Removed server-side only mods
 - Added some more QOL additions that are not included in v1.x
 - Removed most of the world-gen mods and replaced them with DNT series world-gen
 - If you want to play the official server, download the server files [github release](https://github.com/RizenPaul/RizenCraft/releases/tag/rc2-server-files)
